@@ -1,0 +1,15 @@
+<! DOCTYPE html>
+<html lang = "pt_BR">
+<head>
+    <meta charset = "UTF-8">
+    <meta http-equiv = "X-UA-Compatible" content = "IE = edge">
+    <meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
+    <title> karatê </title>
+</head>
+<h1> Saiba um pouco mais sobre o karatê </h1>
+<p> O karatê é uma arte marcial que surgiu no Japão, mais precisamente na ilha de Oknawa (norte do país), como uma luta de defesa contra os ataques de bandidos, que eram atraídos pela exuberância e comércio do local. </p>
+<h2> Estilos <h2>  </h2>
+
+
+</body>
+</html> 
